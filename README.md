@@ -1,8 +1,4 @@
-<img src="https://i.ibb.co/pRJgQLn/github-banner.png" alt="github-banner" border="0">
-
-## Hey 👋, I'm Eric!  
-  
-
+<img src="https://i.ibb.co/pRJgQLn/github-banner.png" alt="github-banner" border="0">  
 <a href="https://github.com/ericnbello" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,7 +11,9 @@
   
 
 ### Glad to see you here!  
-  
+I am a Miami-based full-stack software engineer with a background in Engineering and Business Management.
+
+
   
 
 <br/>  
@@ -57,7 +55,7 @@
 <br/>  
 
 
-## Github Stats  
+<!--## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ericnbello&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -81,6 +79,7 @@
 
 
 <br />
+-->
 
 ----
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
