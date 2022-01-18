@@ -2,7 +2,7 @@
   
 
 ### Glad to see you here!  
-I am a Miami-based full-stack software engineer with a background in Engineering and Business Management.
+I am a Miami-based developer with a background in Engineering and Business Management.
 
 
   
