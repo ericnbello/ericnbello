@@ -1,8 +1,4 @@
 <img src="https://i.ibb.co/pRJgQLn/github-banner.png" alt="github-banner" border="0">  
-  
-
-### Glad to see you here!  
-I am a Miami-based developer with a background in Computer Engineering and Business Management.
 
 
   
